@@ -10,5 +10,5 @@ After a user signs in, they can then add books to thier collection, and they can
 
 ## Links
 
-- Here is the repo:[gwenewasko/repo](https://github.com/gwenewasko/Book-Search-Engine_21)
-- Here is the deployed application:[gwenewasko/page](https://book-search-ge-app.herokuapp.com/)
+- Here is the repo: [gwenewasko/repo](https://github.com/gwenewasko/Book-Search-Engine_21)
+- Here is the deployed application: [gwenewasko/page](https://book-search-ge-app.herokuapp.com/)
